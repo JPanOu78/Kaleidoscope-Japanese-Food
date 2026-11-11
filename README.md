@@ -18,7 +18,7 @@ Experience true in-world sushi making! No standard GUI grids required—place in
 
 - **Whole Fish Slicing directly on Mat**:
   - Place a whole raw fish (**Raw Salmon**, **Raw Cod**, or **Pufferfish**) onto an empty mat.
-  - Slices with any kitchen knife into **4 sushi slices**!
+  - Slice with any kitchen knife into **4 sushi slices**!
   - *Note*: Slices must be gathered with an empty hand before starting sushi assembly.
 - **Flexible Sushi Assembly**:
   - **Rice First Order**: Place cooked rice or seasoned sushi rice $\rightarrow$ right-click with fish or tamago slice $\rightarrow$ sushi assembled!
@@ -35,23 +35,23 @@ Experience true in-world sushi making! No standard GUI grids required—place in
 
 | Sushi | Main Ingredient | Preparation / Notes |
 |---|---|---|
-| **Salmon Sushi** (鮭寿司) | Salmon Sushi Slice + Sushi Rice | Classic rich and tender salmon nigiri. |
-| **Cod Sushi** (鱈寿司) | Cod Sushi Slice + Sushi Rice | Delicate white fish nigiri. |
-| **Fugu Nigiri** (河豚握り) | Fugu Sushi Slice + Sushi Rice | Masterfully sliced non-toxic pufferfish delicacy! |
-| **Tamago Sushi** (玉子寿司) | Tamago Slice + Sushi Rice + Dried Kelp | Sweet egg nigiri hand-bound with a crisp nori strip. |
+| **Salmon Sushi** | Salmon Sushi Slice + Sushi Rice | Classic rich and tender salmon nigiri. |
+| **Cod Sushi** | Cod Sushi Slice + Sushi Rice | Delicate white fish nigiri. |
+| **Fugu Nigiri** | Fugu Sushi Slice + Sushi Rice | Masterfully sliced non-toxic pufferfish delicacy! |
+| **Tamago Sushi** | Tamago Slice + Sushi Rice + Dried Kelp | Sweet egg nigiri hand-bound with a crisp nori strip. |
 
 ---
 
 ### 3. 🍳 Hot Kitchen Dishes & Prep
 
-- **Tamagoyaki (玉子焼き - Japanese Rolled Omelette)**:
+- **Tamagoyaki (Japanese Rolled Omelette)**:
   - Cooked in the Stockpot with eggs and sugar.
   - Place on a Chopping Board to slice into **Tamagoyaki Slices** and **Tamago Sushi Slices**.
 - **Sushi Rice Preparation**:
   - Shape cooked rice directly on the mat with an empty hand, or craft via recipes.
 - **Tableware & Presentation**:
-  - **Wooden Plate (ถาดไม้)**: Placeable multi-tier serving plate for your sushi pieces.
-  - **Sushi Disc (จานซูชิ)**: Round serving platter for elegant dining setups.
+  - **Wooden Plate**: Placeable multi-tier serving plate for your sushi pieces.
+  - **Sushi Disc**: Round ceramic serving platter for elegant dining setups.
 
 ---
 
@@ -84,8 +84,8 @@ Drop `kaleidoscope_japanese_food-x.x.x.jar` into your Minecraft `mods` folder al
 
 ## 🌐 Language Support
 
-- 🇬🇧 English (`en_us`)
-- 🇹🇭 Thai (`th_th`)
+- English (`en_us`)
+- Thai (`th_th`)
 
 ---
 

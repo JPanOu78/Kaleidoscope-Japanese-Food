@@ -18,10 +18,10 @@ All notable changes to **Kaleidoscope Japanese Food** will be documented in this
   - Direct display & plating support: place finished sushi items directly onto an empty mat.
   - Shift + Right-Click undo system to safely retrieve ingredients.
 - **Sushi & Delicacies**:
-  - **Salmon Sushi** (ซูชิแซลมอน)
-  - **Cod Sushi** (ซูชิปลาค็อด)
-  - **Fugu Nigiri** (ซูชิปลาปักเป้าล้างพิษ)
-  - **Tamago Sushi** (ซูชิไข่หวานพันสาหร่าย)
+  - **Salmon Sushi**: Rich, tender raw salmon over seasoned sushi rice.
+  - **Cod Sushi**: Delicate white fish nigiri.
+  - **Fugu Nigiri**: Delicately sliced non-toxic pufferfish nigiri.
+  - **Tamago Sushi**: Sweet rolled omelette nigiri wrapped with nori seaweed.
 - **Prep & Cooked Dishes**:
   - **Tamagoyaki**: Traditional rolled omelette cooked in the Stockpot.
   - **Tamagoyaki Slice** & **Tamago Sushi Slice**: Chopping board slicing recipes.
@@ -30,6 +30,6 @@ All notable changes to **Kaleidoscope Japanese Food** will be documented in this
   - **Wooden Plate**: Traditional wooden geta serving plate with progressive sushi piece placement.
   - **Sushi Disc**: Round ceramic-style sushi plate.
 - **Localization**:
-  - Full English (`en_us`) and Thai (`th_th`) language files.
+  - Full English (`en_us`) and Thai (`th_th`) language support.
 - **Integration**:
   - Deep compatibility with **Kaleidoscope Cookery 1.6.0+** kitchen appliances.

@@ -28,15 +28,15 @@ Say goodbye to flat crafting table recipes—prepare your sushi directly in the 
 - **Undo Anytime**: Sneak + Right-Click to safely undo any step and recover your ingredients.
 
 #### 2. 🍣 Authentic Sushi Selection
-- **Salmon Nigiri (ข้าวปั้นหน้าแซลมอน)**: Rich, tender raw salmon over seasoned sushi rice.
-- **Cod Nigiri (ข้าวปั้นหน้าปลาค็อด)**: Delicate white-flesh cod nigiri.
-- **Fugu Nigiri (ซูชิปลาปักเป้าล้างพิษ)**: Expertly prepared pufferfish delicacy.
-- **Tamago Sushi (ซูชิไข่หวาน)**: Sweet layered omelette bound with crisp dried kelp nori.
+- **Salmon Nigiri**: Rich, tender raw salmon over seasoned sushi rice.
+- **Cod Nigiri**: Delicate white-flesh cod nigiri.
+- **Fugu Nigiri**: Expertly prepared non-toxic pufferfish delicacy.
+- **Tamago Sushi**: Sweet layered omelette bound with crisp dried kelp nori.
 
 #### 3. 🍳 Hot Kitchen Delicacies & Tableware
-- **Tamagoyaki (ไข่ม้วนญี่ปุ่น)**: Cook fluffy rolled omelettes in the Stockpot and slice them on the Chopping Board.
-- **Wooden Plate (ถาดไม้)**: Traditional Japanese sushi serving geta that holds and displays sushi pieces.
-- **Sushi Disc (จานซูชิ)**: Ceramic dining plate.
+- **Tamagoyaki**: Cook fluffy rolled omelettes in the Stockpot and slice them on the Chopping Board.
+- **Wooden Plate**: Traditional Japanese sushi serving geta that holds and displays sushi pieces.
+- **Sushi Disc**: Ceramic dining plate.
 
 ---
 
@@ -48,5 +48,5 @@ Say goodbye to flat crafting table recipes—prepare your sushi directly in the 
 ---
 
 ### 🌐 Languages
-- 🇬🇧 English (`en_us`)
-- 🇹🇭 Thai (`th_th`)
+- English (`en_us`)
+- Thai (`th_th`)
