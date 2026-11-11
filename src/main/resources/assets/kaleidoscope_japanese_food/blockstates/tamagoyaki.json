@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "kaleidoscope_japanese_food:block/tamagoyaki"
+    },
+    "facing=south": {
+      "model": "kaleidoscope_japanese_food:block/tamagoyaki",
+      "y": 180
+    },
+    "facing=east": {
+      "model": "kaleidoscope_japanese_food:block/tamagoyaki",
+      "y": 90
+    },
+    "facing=west": {
+      "model": "kaleidoscope_japanese_food:block/tamagoyaki",
+      "y": 270
+    }
+  }
+}

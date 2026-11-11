@@ -1,0 +1,32 @@
+modLoader="javafml"
+loaderVersion="[4,)"
+license="MIT"
+
+[[mods]]
+modId="kaleidoscope_japanese_food"
+version="0.0.1"
+displayName="Kaleidoscope Japanese Food"
+description='''An authentic Japanese cuisine addon for Kaleidoscope Cookery!'''
+authors="mrzero784"
+
+[[dependencies.kaleidoscope_japanese_food]]
+    modId="neoforge"
+    type="required"
+    versionRange="[21.1,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.kaleidoscope_japanese_food]]
+    modId="minecraft"
+    type="required"
+    versionRange="[1.21.1,1.22)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.kaleidoscope_japanese_food]]
+    modId="kaleidoscope_cookery"
+    type="required"
+    versionRange="[1.6.0,)"
+    ordering="AFTER"
+    side="BOTH"
+

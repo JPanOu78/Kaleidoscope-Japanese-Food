@@ -1,0 +1,20 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "kaleidoscope_japanese_food:block/wooden_plate"
+    },
+    "facing=south": {
+      "model": "kaleidoscope_japanese_food:block/wooden_plate",
+      "y": 180
+    },
+    "facing=east": {
+      "model": "kaleidoscope_japanese_food:block/wooden_plate",
+      "y": 90
+    },
+    "facing=west": {
+      "model": "kaleidoscope_japanese_food:block/wooden_plate",
+      "y": 270
+    }
+  }
+}
+

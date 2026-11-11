@@ -1,0 +1,94 @@
+plugins {
+    id 'java-library'
+    id 'net.neoforged.moddev' version '2.0.78'
+}
+
+tasks.named('wrapper', Wrapper) {
+    distributionType = Wrapper.DistributionType.BIN
+}
+
+version = project.mod_version
+group = project.mod_group_id
+
+base {
+    archivesName = project.mod_id
+}
+
+java.toolchain.languageVersion = JavaLanguageVersion.of(21)
+
+neoForge {
+    version = project.neo_version
+
+    runs {
+        client {
+            client()
+            systemProperty 'neoforge.enabledGameTestNamespaces', project.mod_id
+        }
+        server {
+            server()
+            systemProperty 'neoforge.enabledGameTestNamespaces', project.mod_id
+        }
+    }
+
+    mods {
+        "${project.mod_id}" {
+            sourceSet(sourceSets.main)
+        }
+    }
+}
+
+repositories {
+    mavenLocal()
+    mavenCentral()
+    maven {
+        name = 'NeoForged'
+        url = 'https://maven.neoforged.net/releases'
+    }
+    maven {
+        name = 'Modrinth'
+        url = 'https://api.modrinth.com/maven'
+    }
+    maven {
+        name = 'CurseMaven'
+        url = 'https://cursemaven.com'
+        content {
+            includeGroup 'curse.maven'
+        }
+    }
+}
+
+dependencies {
+    implementation "maven.modrinth:kaleidoscope-cookery:1.6.0-neoforge+mc1.21.1"
+    compileOnly fileTree(dir: 'libs', include: ['*.jar'])
+}
+
+tasks.named('jar', Jar) {
+    manifest {
+        attributes([
+            'Specification-Title'     : project.mod_id,
+            'Specification-Vendor'    : project.mod_authors,
+            'Specification-Version'   : '1',
+            'Implementation-Title'    : project.mod_name,
+            'Implementation-Version'  : project.mod_version,
+            'Implementation-Vendor'   : project.mod_authors
+        ])
+    }
+}
+
+tasks.withType(JavaCompile).configureEach {
+    options.encoding = 'UTF-8'
+}
+
+def modTestDir = file('C:/Users/Admin/AppData/Roaming/ModrinthApp/profiles/Mod Test/mods')
+
+tasks.register('copyToMods', Copy) {
+    dependsOn tasks.named('jar')
+    from tasks.named('jar')
+    into modTestDir
+    onlyIf { modTestDir.exists() }
+}
+
+tasks.named('build') {
+    finalizedBy 'copyToMods'
+}
+

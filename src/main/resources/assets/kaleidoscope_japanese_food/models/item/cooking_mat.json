@@ -1,0 +1,102 @@
+{
+  "parent": "kaleidoscope_japanese_food:block/cooking_mat/empty",
+  "display": {
+    "thirdperson_righthand": {
+      "rotation": [
+        89,
+        0,
+        0
+      ],
+      "translation": [
+        0,
+        1,
+        4.5
+      ],
+      "scale": [
+        0.5,
+        0.5,
+        0.5
+      ]
+    },
+    "thirdperson_lefthand": {
+      "rotation": [
+        89,
+        0,
+        0
+      ],
+      "translation": [
+        0,
+        1,
+        4.5
+      ],
+      "scale": [
+        0.5,
+        0.5,
+        0.5
+      ]
+    },
+    "firstperson_righthand": {
+      "rotation": [
+        90,
+        0,
+        0
+      ],
+      "translation": [
+        -4.5,
+        5.25,
+        9.25
+      ],
+      "scale": [
+        0.25,
+        0.25,
+        0.25
+      ]
+    },
+    "firstperson_lefthand": {
+      "rotation": [
+        90,
+        0,
+        0
+      ],
+      "translation": [
+        -4.5,
+        5.25,
+        9.25
+      ],
+      "scale": [
+        0.25,
+        0.25,
+        0.25
+      ]
+    },
+    "ground": {
+      "translation": [
+        0,
+        5,
+        0
+      ],
+      "scale": [
+        0.7,
+        0.7,
+        0.7
+      ]
+    },
+    "gui": {
+      "rotation": [
+        30,
+        -156,
+        0
+      ],
+      "translation": [
+        0,
+        5,
+        0
+      ],
+      "scale": [
+        0.8,
+        0.8,
+        0.8
+      ]
+    }
+  }
+}

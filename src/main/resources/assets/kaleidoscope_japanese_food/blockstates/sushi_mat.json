@@ -1,0 +1,334 @@
+{
+  "variants": {
+    "facing=north,stage=empty": {
+      "model": "kaleidoscope_japanese_food:block/cooking_mat/empty"
+    },
+    "facing=north,stage=cooked_rice": {
+      "model": "kaleidoscope_japanese_food:block/cooking_mat/cooked_rice"
+    },
+    "facing=north,stage=sushi_rice": {
+      "model": "kaleidoscope_japanese_food:block/cooking_mat/sushi_rice"
+    },
+    "facing=north,stage=salmon_prep": {
+      "model": "kaleidoscope_japanese_food:block/cooking_mat/salmon_prep"
+    },
+    "facing=north,stage=salmon_on_rice": {
+      "model": "kaleidoscope_japanese_food:block/cooking_mat/salmon_on_rice"
+    },
+    "facing=north,stage=salmon_sushi": {
+      "model": "kaleidoscope_japanese_food:block/cooking_mat/salmon_sushi"
+    },
+    "facing=north,stage=tamago_prep": {
+      "model": "kaleidoscope_japanese_food:block/cooking_mat/tamago_prep"
+    },
+    "facing=north,stage=tamago_on_rice": {
+      "model": "kaleidoscope_japanese_food:block/cooking_mat/tamago_on_rice"
+    },
+    "facing=north,stage=nori_prep": {
+      "model": "kaleidoscope_japanese_food:block/cooking_mat/nori_prep"
+    },
+    "facing=north,stage=tamago_sushi": {
+      "model": "kaleidoscope_japanese_food:block/cooking_mat/tamago_sushi"
+    },
+    "facing=south,stage=empty": {
+      "model": "kaleidoscope_japanese_food:block/cooking_mat/empty",
+      "y": 180
+    },
+    "facing=south,stage=cooked_rice": {
+      "model": "kaleidoscope_japanese_food:block/cooking_mat/cooked_rice",
+      "y": 180
+    },
+    "facing=south,stage=sushi_rice": {
+      "model": "kaleidoscope_japanese_food:block/cooking_mat/sushi_rice",
+      "y": 180
+    },
+    "facing=south,stage=salmon_prep": {
+      "model": "kaleidoscope_japanese_food:block/cooking_mat/salmon_prep",
+      "y": 180
+    },
+    "facing=south,stage=salmon_on_rice": {
+      "model": "kaleidoscope_japanese_food:block/cooking_mat/salmon_on_rice",
+      "y": 180
+    },
+    "facing=south,stage=salmon_sushi": {
+      "model": "kaleidoscope_japanese_food:block/cooking_mat/salmon_sushi",
+      "y": 180
+    },
+    "facing=south,stage=tamago_prep": {
+      "model": "kaleidoscope_japanese_food:block/cooking_mat/tamago_prep",
+      "y": 180
+    },
+    "facing=south,stage=tamago_on_rice": {
+      "model": "kaleidoscope_japanese_food:block/cooking_mat/tamago_on_rice",
+      "y": 180
+    },
+    "facing=south,stage=nori_prep": {
+      "model": "kaleidoscope_japanese_food:block/cooking_mat/nori_prep",
+      "y": 180
+    },
+    "facing=south,stage=tamago_sushi": {
+      "model": "kaleidoscope_japanese_food:block/cooking_mat/tamago_sushi",
+      "y": 180
+    },
+    "facing=east,stage=empty": {
+      "model": "kaleidoscope_japanese_food:block/cooking_mat/empty",
+      "y": 90
+    },
+    "facing=east,stage=cooked_rice": {
+      "model": "kaleidoscope_japanese_food:block/cooking_mat/cooked_rice",
+      "y": 90
+    },
+    "facing=east,stage=sushi_rice": {
+      "model": "kaleidoscope_japanese_food:block/cooking_mat/sushi_rice",
+      "y": 90
+    },
+    "facing=east,stage=salmon_prep": {
+      "model": "kaleidoscope_japanese_food:block/cooking_mat/salmon_prep",
+      "y": 90
+    },
+    "facing=east,stage=salmon_on_rice": {
+      "model": "kaleidoscope_japanese_food:block/cooking_mat/salmon_on_rice",
+      "y": 90
+    },
+    "facing=east,stage=salmon_sushi": {
+      "model": "kaleidoscope_japanese_food:block/cooking_mat/salmon_sushi",
+      "y": 90
+    },
+    "facing=east,stage=tamago_prep": {
+      "model": "kaleidoscope_japanese_food:block/cooking_mat/tamago_prep",
+      "y": 90
+    },
+    "facing=east,stage=tamago_on_rice": {
+      "model": "kaleidoscope_japanese_food:block/cooking_mat/tamago_on_rice",
+      "y": 90
+    },
+    "facing=east,stage=nori_prep": {
+      "model": "kaleidoscope_japanese_food:block/cooking_mat/nori_prep",
+      "y": 90
+    },
+    "facing=east,stage=tamago_sushi": {
+      "model": "kaleidoscope_japanese_food:block/cooking_mat/tamago_sushi",
+      "y": 90
+    },
+    "facing=west,stage=empty": {
+      "model": "kaleidoscope_japanese_food:block/cooking_mat/empty",
+      "y": 270
+    },
+    "facing=west,stage=cooked_rice": {
+      "model": "kaleidoscope_japanese_food:block/cooking_mat/cooked_rice",
+      "y": 270
+    },
+    "facing=west,stage=sushi_rice": {
+      "model": "kaleidoscope_japanese_food:block/cooking_mat/sushi_rice",
+      "y": 270
+    },
+    "facing=west,stage=salmon_prep": {
+      "model": "kaleidoscope_japanese_food:block/cooking_mat/salmon_prep",
+      "y": 270
+    },
+    "facing=west,stage=salmon_on_rice": {
+      "model": "kaleidoscope_japanese_food:block/cooking_mat/salmon_on_rice",
+      "y": 270
+    },
+    "facing=west,stage=salmon_sushi": {
+      "model": "kaleidoscope_japanese_food:block/cooking_mat/salmon_sushi",
+      "y": 270
+    },
+    "facing=west,stage=tamago_prep": {
+      "model": "kaleidoscope_japanese_food:block/cooking_mat/tamago_prep",
+      "y": 270
+    },
+    "facing=west,stage=tamago_on_rice": {
+      "model": "kaleidoscope_japanese_food:block/cooking_mat/tamago_on_rice",
+      "y": 270
+    },
+    "facing=west,stage=nori_prep": {
+      "model": "kaleidoscope_japanese_food:block/cooking_mat/nori_prep",
+      "y": 270
+    },
+    "facing=west,stage=tamago_sushi": {
+      "model": "kaleidoscope_japanese_food:block/cooking_mat/tamago_sushi",
+      "y": 270
+    },
+    "facing=north,stage=raw_salmon": {
+      "model": "kaleidoscope_japanese_food:block/cooking_mat/raw_salmon"
+    },
+    "facing=south,stage=raw_salmon": {
+      "model": "kaleidoscope_japanese_food:block/cooking_mat/raw_salmon",
+      "y": 180
+    },
+    "facing=east,stage=raw_salmon": {
+      "model": "kaleidoscope_japanese_food:block/cooking_mat/raw_salmon",
+      "y": 90
+    },
+    "facing=west,stage=raw_salmon": {
+      "model": "kaleidoscope_japanese_food:block/cooking_mat/raw_salmon",
+      "y": 270
+    },
+    "facing=north,stage=salmon_slices": {
+      "model": "kaleidoscope_japanese_food:block/cooking_mat/salmon_slices"
+    },
+    "facing=south,stage=salmon_slices": {
+      "model": "kaleidoscope_japanese_food:block/cooking_mat/salmon_slices",
+      "y": 180
+    },
+    "facing=east,stage=salmon_slices": {
+      "model": "kaleidoscope_japanese_food:block/cooking_mat/salmon_slices",
+      "y": 90
+    },
+    "facing=west,stage=salmon_slices": {
+      "model": "kaleidoscope_japanese_food:block/cooking_mat/salmon_slices",
+      "y": 270
+    },
+    "facing=north,stage=raw_cod": {
+      "model": "kaleidoscope_japanese_food:block/cooking_mat/raw_cod"
+    },
+    "facing=south,stage=raw_cod": {
+      "model": "kaleidoscope_japanese_food:block/cooking_mat/raw_cod",
+      "y": 180
+    },
+    "facing=east,stage=raw_cod": {
+      "model": "kaleidoscope_japanese_food:block/cooking_mat/raw_cod",
+      "y": 90
+    },
+    "facing=west,stage=raw_cod": {
+      "model": "kaleidoscope_japanese_food:block/cooking_mat/raw_cod",
+      "y": 270
+    },
+    "facing=north,stage=cod_slices": {
+      "model": "kaleidoscope_japanese_food:block/cooking_mat/cod_slices"
+    },
+    "facing=south,stage=cod_slices": {
+      "model": "kaleidoscope_japanese_food:block/cooking_mat/cod_slices",
+      "y": 180
+    },
+    "facing=east,stage=cod_slices": {
+      "model": "kaleidoscope_japanese_food:block/cooking_mat/cod_slices",
+      "y": 90
+    },
+    "facing=west,stage=cod_slices": {
+      "model": "kaleidoscope_japanese_food:block/cooking_mat/cod_slices",
+      "y": 270
+    },
+    "facing=north,stage=cod_sushi": {
+      "model": "kaleidoscope_japanese_food:block/cooking_mat/cod_sushi"
+    },
+    "facing=south,stage=cod_sushi": {
+      "model": "kaleidoscope_japanese_food:block/cooking_mat/cod_sushi",
+      "y": 180
+    },
+    "facing=east,stage=cod_sushi": {
+      "model": "kaleidoscope_japanese_food:block/cooking_mat/cod_sushi",
+      "y": 90
+    },
+    "facing=west,stage=cod_sushi": {
+      "model": "kaleidoscope_japanese_food:block/cooking_mat/cod_sushi",
+      "y": 270
+    },
+    "facing=north,stage=fugu_sushi": {
+      "model": "kaleidoscope_japanese_food:block/cooking_mat/fugu_sushi"
+    },
+    "facing=south,stage=fugu_sushi": {
+      "model": "kaleidoscope_japanese_food:block/cooking_mat/fugu_sushi",
+      "y": 180
+    },
+    "facing=east,stage=fugu_sushi": {
+      "model": "kaleidoscope_japanese_food:block/cooking_mat/fugu_sushi",
+      "y": 90
+    },
+    "facing=west,stage=fugu_sushi": {
+      "model": "kaleidoscope_japanese_food:block/cooking_mat/fugu_sushi",
+      "y": 270
+    },
+    "facing=north,stage=raw_fugu": {
+      "model": "kaleidoscope_japanese_food:block/cooking_mat/raw_fugu"
+    },
+    "facing=south,stage=raw_fugu": {
+      "model": "kaleidoscope_japanese_food:block/cooking_mat/raw_fugu",
+      "y": 180
+    },
+    "facing=east,stage=raw_fugu": {
+      "model": "kaleidoscope_japanese_food:block/cooking_mat/raw_fugu",
+      "y": 90
+    },
+    "facing=west,stage=raw_fugu": {
+      "model": "kaleidoscope_japanese_food:block/cooking_mat/raw_fugu",
+      "y": 270
+    },
+    "facing=north,stage=fugu_slices": {
+      "model": "kaleidoscope_japanese_food:block/cooking_mat/fugu_slices"
+    },
+    "facing=south,stage=fugu_slices": {
+      "model": "kaleidoscope_japanese_food:block/cooking_mat/fugu_slices",
+      "y": 180
+    },
+    "facing=east,stage=fugu_slices": {
+      "model": "kaleidoscope_japanese_food:block/cooking_mat/fugu_slices",
+      "y": 90
+    },
+    "facing=west,stage=fugu_slices": {
+      "model": "kaleidoscope_japanese_food:block/cooking_mat/fugu_slices",
+      "y": 270
+    },
+    "facing=north,stage=salmon_slice": {
+      "model": "kaleidoscope_japanese_food:block/cooking_mat/salmon_slice"
+    },
+    "facing=east,stage=salmon_slice": {
+      "model": "kaleidoscope_japanese_food:block/cooking_mat/salmon_slice",
+      "y": 90
+    },
+    "facing=south,stage=salmon_slice": {
+      "model": "kaleidoscope_japanese_food:block/cooking_mat/salmon_slice",
+      "y": 180
+    },
+    "facing=west,stage=salmon_slice": {
+      "model": "kaleidoscope_japanese_food:block/cooking_mat/salmon_slice",
+      "y": 270
+    },
+    "facing=north,stage=cod_slice": {
+      "model": "kaleidoscope_japanese_food:block/cooking_mat/cod_slice"
+    },
+    "facing=east,stage=cod_slice": {
+      "model": "kaleidoscope_japanese_food:block/cooking_mat/cod_slice",
+      "y": 90
+    },
+    "facing=south,stage=cod_slice": {
+      "model": "kaleidoscope_japanese_food:block/cooking_mat/cod_slice",
+      "y": 180
+    },
+    "facing=west,stage=cod_slice": {
+      "model": "kaleidoscope_japanese_food:block/cooking_mat/cod_slice",
+      "y": 270
+    },
+    "facing=north,stage=fugu_slice": {
+      "model": "kaleidoscope_japanese_food:block/cooking_mat/fugu_slice"
+    },
+    "facing=east,stage=fugu_slice": {
+      "model": "kaleidoscope_japanese_food:block/cooking_mat/fugu_slice",
+      "y": 90
+    },
+    "facing=south,stage=fugu_slice": {
+      "model": "kaleidoscope_japanese_food:block/cooking_mat/fugu_slice",
+      "y": 180
+    },
+    "facing=west,stage=fugu_slice": {
+      "model": "kaleidoscope_japanese_food:block/cooking_mat/fugu_slice",
+      "y": 270
+    },
+    "facing=north,stage=tamago_slice": {
+      "model": "kaleidoscope_japanese_food:block/cooking_mat/tamago_slice"
+    },
+    "facing=east,stage=tamago_slice": {
+      "model": "kaleidoscope_japanese_food:block/cooking_mat/tamago_slice",
+      "y": 90
+    },
+    "facing=south,stage=tamago_slice": {
+      "model": "kaleidoscope_japanese_food:block/cooking_mat/tamago_slice",
+      "y": 180
+    },
+    "facing=west,stage=tamago_slice": {
+      "model": "kaleidoscope_japanese_food:block/cooking_mat/tamago_slice",
+      "y": 270
+    }
+  }
+}

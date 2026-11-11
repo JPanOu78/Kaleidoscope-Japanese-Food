@@ -1,0 +1,39 @@
+{
+  "credit": "Made with Blockbench",
+  "render_type": "minecraft:cutout",
+  "textures": {
+    "1": "kaleidoscope_japanese_food:block/tamagoyaki",
+    "particle": "kaleidoscope_japanese_food:block/tamagoyaki"
+  },
+  "elements": [
+    {
+      "name": "Top",
+      "from": [7, 2.75, 6],
+      "to": [9, 3.25, 10],
+      "rotation": {"angle": 0, "axis": "y", "origin": [2, 2.0625, 8]},
+      "faces": {
+        "north": {"uv": [4.5, 9.5, 5.5, 10], "texture": "#1"},
+        "east": {"uv": [9.5, 4, 11.5, 4.5], "texture": "#1"},
+        "south": {"uv": [9.5, 5, 10.5, 5.5], "texture": "#1"},
+        "west": {"uv": [9.5, 4.5, 11.5, 5], "texture": "#1"},
+        "up": {"uv": [0, 9, 1, 11], "texture": "#1"},
+        "down": {"uv": [1, 9, 2, 11], "texture": "#1"}
+      }
+    },
+    {
+      "name": "Body",
+      "from": [7, 0, 5.5],
+      "to": [9, 2.75, 10.5],
+      "rotation": {"angle": 0, "axis": "y", "origin": [2, 2.0625, 8]},
+      "faces": {
+        "north": {"uv": [2.5, 9.5, 3.5, 11], "texture": "#1"},
+        "east": {"uv": [7, 4, 9.5, 5.5], "texture": "#1"},
+        "south": {"uv": [3.5, 9.5, 4.5, 11], "texture": "#1"},
+        "west": {"uv": [7, 5.5, 9.5, 7], "texture": "#1"},
+        "up": {"uv": [7, 7, 8, 9.5], "texture": "#1"},
+        "down": {"uv": [8, 7, 9, 9.5], "texture": "#1"}
+      }
+    }
+  ]
+}
+

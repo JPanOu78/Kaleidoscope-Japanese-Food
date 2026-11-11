@@ -1,0 +1,152 @@
+{
+  "format_version": "26.3",
+  "credit": "Made with Blockbench",
+  "textures": {
+    "particle": "kaleidoscope_japanese_food:block/rice",
+    "rice": "kaleidoscope_japanese_food:block/rice"
+  },
+  "elements": [
+    {
+      "from": [
+        7,
+        0,
+        5.5
+      ],
+      "to": [
+        9,
+        1,
+        10.5
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            2,
+            6,
+            4,
+            7
+          ],
+          "texture": "#rice"
+        },
+        "east": {
+          "uv": [
+            6,
+            1,
+            11,
+            2
+          ],
+          "texture": "#rice"
+        },
+        "south": {
+          "uv": [
+            0,
+            6,
+            2,
+            7
+          ],
+          "texture": "#rice"
+        },
+        "west": {
+          "uv": [
+            6,
+            0,
+            11,
+            1
+          ],
+          "texture": "#rice"
+        },
+        "up": {
+          "uv": [
+            4,
+            5,
+            6,
+            10
+          ],
+          "texture": "#rice"
+        },
+        "down": {
+          "uv": [
+            4,
+            0,
+            6,
+            5
+          ],
+          "texture": "#rice"
+        }
+      }
+    }
+  ],
+  "display": {
+    "thirdperson_righthand": {
+      "rotation": [
+        89,
+        0,
+        0
+      ],
+      "translation": [
+        0,
+        1,
+        8.5
+      ]
+    },
+    "thirdperson_lefthand": {
+      "rotation": [
+        89,
+        0,
+        0
+      ],
+      "translation": [
+        0,
+        1,
+        8.5
+      ]
+    },
+    "firstperson_righthand": {
+      "rotation": [
+        90,
+        0,
+        0
+      ],
+      "translation": [
+        -1.75,
+        4.25,
+        12
+      ]
+    },
+    "firstperson_lefthand": {
+      "rotation": [
+        90,
+        0,
+        0
+      ],
+      "translation": [
+        -2.25,
+        3,
+        12
+      ]
+    },
+    "ground": {
+      "translation": [
+        0,
+        5,
+        0
+      ]
+    },
+    "gui": {
+      "rotation": [
+        30,
+        -156,
+        0
+      ],
+      "translation": [
+        0,
+        19,
+        0
+      ],
+      "scale": [
+        3,
+        3,
+        3
+      ]
+    }
+  }
+}

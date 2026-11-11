@@ -1,0 +1,21 @@
+{
+  "type": "kaleidoscope_cookery:pot",
+  "ingredients": [
+    {
+      "item": "minecraft:egg"
+    },
+    {
+      "item": "minecraft:egg"
+    },
+    {
+      "item": "minecraft:sugar"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "kaleidoscope_japanese_food:tamagoyaki"
+  },
+  "stir_fry_count": 2,
+  "time": 160
+}
+

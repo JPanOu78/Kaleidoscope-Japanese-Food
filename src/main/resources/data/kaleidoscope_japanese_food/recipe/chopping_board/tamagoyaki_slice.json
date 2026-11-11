@@ -1,0 +1,12 @@
+{
+  "type": "kaleidoscope_cookery:chopping_board",
+  "ingredient": {
+    "item": "kaleidoscope_japanese_food:tamagoyaki"
+  },
+  "model_id": "kaleidoscope_japanese_food:tamagoyaki",
+  "cut_count": 2,
+  "result": {
+    "count": 4,
+    "id": "kaleidoscope_japanese_food:tamagoyaki_slice"
+  }
+}

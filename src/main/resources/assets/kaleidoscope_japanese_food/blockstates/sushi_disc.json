@@ -1,0 +1,154 @@
+{
+  "variants": {
+    "discs=1,facing=north": {
+      "model": "kaleidoscope_japanese_food:block/sushi_disc/1"
+    },
+    "discs=1,facing=south": {
+      "model": "kaleidoscope_japanese_food:block/sushi_disc/1",
+      "y": 180
+    },
+    "discs=1,facing=west": {
+      "model": "kaleidoscope_japanese_food:block/sushi_disc/1",
+      "y": 270
+    },
+    "discs=1,facing=east": {
+      "model": "kaleidoscope_japanese_food:block/sushi_disc/1",
+      "y": 90
+    },
+    "discs=2,facing=north": {
+      "model": "kaleidoscope_japanese_food:block/sushi_disc/2"
+    },
+    "discs=2,facing=south": {
+      "model": "kaleidoscope_japanese_food:block/sushi_disc/2",
+      "y": 180
+    },
+    "discs=2,facing=west": {
+      "model": "kaleidoscope_japanese_food:block/sushi_disc/2",
+      "y": 270
+    },
+    "discs=2,facing=east": {
+      "model": "kaleidoscope_japanese_food:block/sushi_disc/2",
+      "y": 90
+    },
+    "discs=3,facing=north": {
+      "model": "kaleidoscope_japanese_food:block/sushi_disc/3"
+    },
+    "discs=3,facing=south": {
+      "model": "kaleidoscope_japanese_food:block/sushi_disc/3",
+      "y": 180
+    },
+    "discs=3,facing=west": {
+      "model": "kaleidoscope_japanese_food:block/sushi_disc/3",
+      "y": 270
+    },
+    "discs=3,facing=east": {
+      "model": "kaleidoscope_japanese_food:block/sushi_disc/3",
+      "y": 90
+    },
+    "discs=4,facing=north": {
+      "model": "kaleidoscope_japanese_food:block/sushi_disc/4"
+    },
+    "discs=4,facing=south": {
+      "model": "kaleidoscope_japanese_food:block/sushi_disc/4",
+      "y": 180
+    },
+    "discs=4,facing=west": {
+      "model": "kaleidoscope_japanese_food:block/sushi_disc/4",
+      "y": 270
+    },
+    "discs=4,facing=east": {
+      "model": "kaleidoscope_japanese_food:block/sushi_disc/4",
+      "y": 90
+    },
+    "discs=5,facing=north": {
+      "model": "kaleidoscope_japanese_food:block/sushi_disc/5"
+    },
+    "discs=5,facing=south": {
+      "model": "kaleidoscope_japanese_food:block/sushi_disc/5",
+      "y": 180
+    },
+    "discs=5,facing=west": {
+      "model": "kaleidoscope_japanese_food:block/sushi_disc/5",
+      "y": 270
+    },
+    "discs=5,facing=east": {
+      "model": "kaleidoscope_japanese_food:block/sushi_disc/5",
+      "y": 90
+    },
+    "discs=6,facing=north": {
+      "model": "kaleidoscope_japanese_food:block/sushi_disc/6"
+    },
+    "discs=6,facing=south": {
+      "model": "kaleidoscope_japanese_food:block/sushi_disc/6",
+      "y": 180
+    },
+    "discs=6,facing=west": {
+      "model": "kaleidoscope_japanese_food:block/sushi_disc/6",
+      "y": 270
+    },
+    "discs=6,facing=east": {
+      "model": "kaleidoscope_japanese_food:block/sushi_disc/6",
+      "y": 90
+    },
+    "discs=7,facing=north": {
+      "model": "kaleidoscope_japanese_food:block/sushi_disc/7"
+    },
+    "discs=7,facing=south": {
+      "model": "kaleidoscope_japanese_food:block/sushi_disc/7",
+      "y": 180
+    },
+    "discs=7,facing=west": {
+      "model": "kaleidoscope_japanese_food:block/sushi_disc/7",
+      "y": 270
+    },
+    "discs=7,facing=east": {
+      "model": "kaleidoscope_japanese_food:block/sushi_disc/7",
+      "y": 90
+    },
+    "discs=8,facing=north": {
+      "model": "kaleidoscope_japanese_food:block/sushi_disc/8"
+    },
+    "discs=8,facing=south": {
+      "model": "kaleidoscope_japanese_food:block/sushi_disc/8",
+      "y": 180
+    },
+    "discs=8,facing=west": {
+      "model": "kaleidoscope_japanese_food:block/sushi_disc/8",
+      "y": 270
+    },
+    "discs=8,facing=east": {
+      "model": "kaleidoscope_japanese_food:block/sushi_disc/8",
+      "y": 90
+    },
+    "discs=9,facing=north": {
+      "model": "kaleidoscope_japanese_food:block/sushi_disc/9"
+    },
+    "discs=9,facing=south": {
+      "model": "kaleidoscope_japanese_food:block/sushi_disc/9",
+      "y": 180
+    },
+    "discs=9,facing=west": {
+      "model": "kaleidoscope_japanese_food:block/sushi_disc/9",
+      "y": 270
+    },
+    "discs=9,facing=east": {
+      "model": "kaleidoscope_japanese_food:block/sushi_disc/9",
+      "y": 90
+    },
+    "discs=10,facing=north": {
+      "model": "kaleidoscope_japanese_food:block/sushi_disc/10"
+    },
+    "discs=10,facing=south": {
+      "model": "kaleidoscope_japanese_food:block/sushi_disc/10",
+      "y": 180
+    },
+    "discs=10,facing=west": {
+      "model": "kaleidoscope_japanese_food:block/sushi_disc/10",
+      "y": 270
+    },
+    "discs=10,facing=east": {
+      "model": "kaleidoscope_japanese_food:block/sushi_disc/10",
+      "y": 90
+    }
+  }
+}
