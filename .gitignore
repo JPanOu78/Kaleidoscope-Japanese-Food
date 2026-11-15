@@ -21,3 +21,5 @@ run/
 # Caches
 .cache/
 
+
+.eclipse/
